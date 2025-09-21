@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Internship\\Project\\loginapp\\LoginApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0487A15-6752-4549-A1A4-132B23A53FAE}|LoginApplication\\LoginApplication.csproj|e:\\internship\\project\\loginapp\\loginapplication\\loginapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0487A15-6752-4549-A1A4-132B23A53FAE}|LoginApplication\\LoginApplication.csproj|solutionrelative:loginapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Internship\\Project\\Employee-Management--Angular18-main\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Internship\\Project\\loginapp\\Solution1.ssmssln||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Solution1.ssmssln",
+              "DocumentMoniker": "E:\\Internship\\Project\\loginapp\\Solution1.ssmssln",
+              "RelativeDocumentMoniker": "..\\Solution1.ssmssln",
+              "ToolTip": "E:\\Internship\\Project\\loginapp\\Solution1.ssmssln",
+              "RelativeToolTip": "..\\Solution1.ssmssln",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALlSURBVDhPnZTvS1phFMe/ev2RP5qzMpWKpjFHQU4oLOtFsaBoBL3qP9n/M/Ymgvm2Fw6mTQgql3NJCkU0yYxizSwz8\u002BfOc7rNtoW1fS6H\u002B9znnnvuOd/nPA/\u002Bh8nJSWM\u002Bn/eRfSXLkr0Nh8PPUa/XFTRYp3td9n0Ura2tktPp1AUCgWfn5\u002Bcal8t11t/fn0kmk0VFoVCo\u002B/3\u002B\u002BsnJiezenN7eXgwODsJqtWJxcRGJRAKdnZ0iawwPD0MlnFZXV7Gzs8MfNKO7uxtXV1c8zuVy6OnpwcHBAUQyu7u7HFDJbx9AoVDAZDLB4/HwPRqNYnl5GQ6HAz6fD1Qy1Go1\u002B3KGD6HX6zE/Pw/SC9vb29jb24MkSfxubm4OpCdnKfgVcHb2NUa8XvmpgciuUqkgkUxwsHQ6jWq1yu/K5TIUdKW\u002BpbAR2cDo6GgjYFdXF9zul/LTDSJYNvsDsViMxT88PGQNW1paeHFGvCNob\u002B9g/Y6Pj/mbphoqlAqc5c4Q/RLF/v4\u002BqCOg0\u002BngdDgx9WoKXqrIbDbL3jdwQCHorSa3SJKSSi1zeQaDAVqtlk1kNjExgZmZGQqul70bcMnUlLDbbZBUjaBKym4ruoXT01MsLCyITYDLy0sMDQ1hzDdGP6rJnr/DAUUrCH2ur0uchfiwWq3g6OiIx4Lp6Wn6iRJPTWZoNFqeuw8uWbSF0Wjk0vRUhtFgpBa5YH0GBgZI\u002BHbuuT5n31\u002Ba/QkHvLjI818tHRa0tbXxViqXSrDZbBgfH\u002BcdIEkq1Go1Lr0ZHHBz8zOCwY/4FF7B2voaj4OhIFKpFAUAKuUqaqTZY44QDliibOLxOG8nv/89Ah8CrJ9o6H\u002BFF0WUUSwW2e5C5xzv25VQSJ65H7GgomcFnKHdbhdnHE/cIvQTC6BWq2AwGpqa64WLtRaI8zAeCoWskUjkSSaT0fAs4Xa7C\u002BT03WKxZOkwuJanH4YCesjekaXJ6ncsRvZmaWnpmez6CICfkd5NDWtZQxoAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-09-21T07:26:20.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launch.json",
+              "DocumentMoniker": "E:\\Internship\\Project\\Employee-Management--Angular18-main\\.vscode\\launch.json",
+              "RelativeDocumentMoniker": "..\\..\\Employee-Management--Angular18-main\\.vscode\\launch.json",
+              "ToolTip": "E:\\Internship\\Project\\Employee-Management--Angular18-main\\.vscode\\launch.json",
+              "RelativeToolTip": "..\\..\\Employee-Management--Angular18-main\\.vscode\\launch.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-20T14:05:29.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Internship\\Project\\loginapp\\LoginApplication\\LoginApplication\\Form1.cs",
+              "RelativeDocumentMoniker": "LoginApplication\\Form1.cs",
+              "ToolTip": "E:\\Internship\\Project\\loginapp\\LoginApplication\\LoginApplication\\Form1.cs",
+              "RelativeToolTip": "LoginApplication\\Form1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:04:01.141Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
